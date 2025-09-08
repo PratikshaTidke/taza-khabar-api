@@ -25,7 +25,7 @@ public class NewsService {
 
     @Value("${gnews.api.key}")
     private String gnewsApiKey;
-    
+
     @Value("${mediastack.api.key}")
     private String mediaStackApiKey;
 
