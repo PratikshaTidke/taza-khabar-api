@@ -1,5 +1,7 @@
 # Taza Khabar - Backend API 📰
 
+**🔴 Live Demo:** [View Project](https://taza-khabar-ui.vercel.app/)
+
 This is the backend REST API for Taza Khabar, a full-stack news aggregator application. This server is built with Java and the Spring Boot framework. It is responsible for fetching, aggregating, caching, and de-duplicating news articles from multiple external APIs.
 
 ---
